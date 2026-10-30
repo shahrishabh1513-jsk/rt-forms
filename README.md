@@ -1,9 +1,3 @@
-<!-- ============================================================
-     RT FORMS — README
-     Palette:  Indigo #4F46E5  |  Violet #8B5CF6  |  Cyan #06B6D4
-               Pink   #F472B6  |  Amber  #F59E0B  |  Navy #0F172A
-     ============================================================ -->
-
 <img align="right" src="https://github.com/user-attachments/assets/41de0edc-f0a3-474a-9156-d8b3d10d41ba" width="140" alt="Shah Rishabh badge logo"/>
 <img align="left" src="https://github.com/user-attachments/assets/90c19f97-8b0b-4df1-96c4-a288d337503c" width="140" alt="Shah Rishabh badge logo"/>
 
