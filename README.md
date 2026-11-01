@@ -18,28 +18,36 @@
   </tr>
 </table>
 
+<!-- ═════════════ MAIN ACTION BUTTONS ═════════════ -->
 <p align="center">
-  <a href="https://shahrishabh1513-jsk.github.io/rt-forms/"><img src="https://img.shields.io/badge/🚀_Live_Demo-Open_App-14B8A6?style=for-the-badge&labelColor=0F172A" alt="Live Demo"/></a>
-  <a href="https://github.com/shahrishabh1513-jsk/rt-forms"><img src="https://img.shields.io/badge/⭐_Source-GitHub-98E2C6?style=for-the-badge&labelColor=0F172A&logo=github&logoColor=white" alt="GitHub Repo"/></a>
+  <a href="https://shahrishabh1513-jsk.github.io/rt-forms/"><img src="https://img.shields.io/badge/🚀_LIVE_DEMO-OPEN_APP-14B8A6?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0F172A" alt="Live Demo"/></a>
+  <a href="https://github.com/shahrishabh1513-jsk/rt-forms"><img src="https://img.shields.io/badge/💻_SOURCE_CODE-GITHUB-98E2C6?style=for-the-badge&logo=github&logoColor=0F172A&labelColor=0F172A" alt="Source Code"/></a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=0F172A" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Responsive-Yes-14B8A6?style=flat-square&labelColor=0F172A" alt="Responsive"/>
-  <img src="https://img.shields.io/badge/Hosted_on-GitHub_Pages-FB7185?style=flat-square&labelColor=0F172A&logo=githubpages&logoColor=white" alt="GitHub Pages"/>
-  <img src="https://img.shields.io/github/last-commit/shahrishabh1513-jsk/rt-forms?style=flat-square&color=98E2C6&labelColor=0F172A" alt="Last commit"/>
+  <a href="https://github.com/shahrishabh1513-jsk/rt-forms/stargazers"><img src="https://img.shields.io/github/stars/shahrishabh1513-jsk/rt-forms?style=for-the-badge&logo=github&logoColor=FBBF24&color=0F172A&labelColor=0F172A&label=⭐_STARS" alt="Stars"/></a>
+  <a href="https://github.com/shahrishabh1513-jsk/rt-forms/fork"><img src="https://img.shields.io/github/forks/shahrishabh1513-jsk/rt-forms?style=for-the-badge&logo=git&logoColor=FB7185&color=0F172A&labelColor=0F172A&label=🍴_FORKS" alt="Forks"/></a>
+  <a href="https://github.com/shahrishabh1513-jsk/rt-forms/issues"><img src="https://img.shields.io/github/issues/shahrishabh1513-jsk/rt-forms?style=for-the-badge&logo=github&logoColor=98E2C6&color=0F172A&labelColor=0F172A&label=🐞_ISSUES" alt="Issues"/></a>
+  <a href="https://github.com/shahrishabh1513-jsk/rt-forms/commits/main"><img src="https://img.shields.io/github/last-commit/shahrishabh1513-jsk/rt-forms?style=for-the-badge&logo=git&logoColor=14B8A6&color=0F172A&labelColor=0F172A&label=🕒_UPDATED" alt="Last commit"/></a>
 </p>
 
+<!-- ═════════════ TECH BADGES ═════════════ -->
 <p align="center">
-  <a href="#-live-preview">Preview</a> •
-  <a href="#-features">Features</a> •
-  <a href="#-tech-stack">Tech Stack</a> •
-  <a href="#-getting-started">Getting Started</a> •
-  <a href="#-project-structure">Structure</a> •
-  <a href="#-color-palette">Colors</a> •
-  <a href="#-author">Author</a>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=0F172A" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/RESPONSIVE-YES-14B8A6?style=for-the-badge&logo=responsively&logoColor=white&labelColor=0F172A" alt="Responsive"/>
+  <img src="https://img.shields.io/badge/HOSTED_ON-GITHUB_PAGES-FB7185?style=for-the-badge&logo=githubpages&logoColor=white&labelColor=0F172A" alt="GitHub Pages"/>
+</p>
+
+<!-- ═════════════ NAVIGATION BUTTONS ═════════════ -->
+<p align="center">
+  <a href="#-live-preview"><img src="https://img.shields.io/badge/🌐-PREVIEW-98E2C6?style=for-the-badge&labelColor=0F172A" alt="Preview"/></a>
+  <a href="#-features"><img src="https://img.shields.io/badge/🚀-FEATURES-14B8A6?style=for-the-badge&labelColor=0F172A" alt="Features"/></a>
+  <a href="#-tech-stack"><img src="https://img.shields.io/badge/🧰-TECH_STACK-FBBF24?style=for-the-badge&labelColor=0F172A" alt="Tech Stack"/></a>
+  <a href="#%EF%B8%8F-getting-started"><img src="https://img.shields.io/badge/⚙️-GET_STARTED-FB7185?style=for-the-badge&labelColor=0F172A" alt="Getting Started"/></a>
+  <a href="#-color-palette"><img src="https://img.shields.io/badge/🎨-COLORS-98E2C6?style=for-the-badge&labelColor=0F172A" alt="Colors"/></a>
+  <a href="#-author"><img src="https://img.shields.io/badge/👨‍💻-AUTHOR-14B8A6?style=for-the-badge&labelColor=0F172A" alt="Author"/></a>
 </p>
 
 ---
@@ -53,10 +61,10 @@
 </p>
 
 <p align="center">
-  <b>👉 <a href="https://shahrishabh1513-jsk.github.io/rt-forms/">https://shahrishabh1513-jsk.github.io/rt-forms/</a></b>
+  <a href="https://shahrishabh1513-jsk.github.io/rt-forms/"><img src="https://img.shields.io/badge/▶_TRY_RT_FORMS_NOW-CLICK_TO_OPEN-14B8A6?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=FB7185" alt="Try RT FORMS now"/></a>
 </p>
 
-> 💡 Click the preview to open the live app in a new tab.
+<p align="center"><sub>💡 Click the preview or the button to open the live app.</sub></p>
 
 ---
 
@@ -169,6 +177,12 @@ Contributions, issues and feature requests are welcome!
 4. Push to the branch: `git push origin feature/amazing-feature`
 5. Open a Pull Request
 
+<p align="center">
+  <a href="https://github.com/shahrishabh1513-jsk/rt-forms/issues/new"><img src="https://img.shields.io/badge/🐞_REPORT-A_BUG-FB7185?style=for-the-badge&labelColor=0F172A" alt="Report a bug"/></a>
+  <a href="https://github.com/shahrishabh1513-jsk/rt-forms/issues/new"><img src="https://img.shields.io/badge/💡_REQUEST-A_FEATURE-FBBF24?style=for-the-badge&labelColor=0F172A" alt="Request a feature"/></a>
+  <a href="https://github.com/shahrishabh1513-jsk/rt-forms/pulls"><img src="https://img.shields.io/badge/🔀_OPEN-PULL_REQUEST-14B8A6?style=for-the-badge&labelColor=0F172A" alt="Pull request"/></a>
+</p>
+
 ---
 
 ## 👨‍💻 Author
@@ -180,8 +194,11 @@ Contributions, issues and feature requests are welcome!
 </p>
 
 <p align="center">
-  If you like this project, please give it a ⭐ — it really helps!
+  <a href="https://github.com/shahrishabh1513-jsk/rt-forms"><img src="https://img.shields.io/badge/⭐_STAR_THIS-REPOSITORY-FBBF24?style=for-the-badge&logo=github&logoColor=0F172A&labelColor=0F172A" alt="Star this repository"/></a>
+  <a href="https://shahrishabh1513-jsk.github.io/rt-forms/"><img src="https://img.shields.io/badge/🚀_VISIT-LIVE_APP-14B8A6?style=for-the-badge&labelColor=0F172A" alt="Visit live app"/></a>
 </p>
+
+<p align="center"><sub>If you like this project, please give it a ⭐ — it really helps!</sub></p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:14B8A6,100:98E2C6&height=100&section=footer" width="100%" alt="footer wave"/>
