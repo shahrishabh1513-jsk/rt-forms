@@ -1,17 +1,10 @@
-<!-- ═══════════════════════ HEADER ═══════════════════════ -->
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td width="20%" align="left" valign="middle">
       <img src="https://github.com/user-attachments/assets/90c19f97-8b0b-4df1-96c4-a288d337503c" width="140" alt="Shah Rishabh badge logo"/>
     </td>
     <td width="60%" align="center" valign="middle">
-      <img src="https://github.com/shahrishabh1513-jsk/rt-forms/blob/main/assets/logo/rt-forms-logo.png?raw=true" width="110" alt="RT FORMS logo"/>
-      <h1>RT FORMS</h1>
-      <h3>Create. Share. Collect.</h3>
-      <p>
-        A modern, responsive online form builder for creating<br/>
-        <b>feedback forms · quizzes · surveys · registrations</b>
-      </p>
+      <img src="https://github.com/shahrishabh1513-jsk/rt-forms/blob/main/assets/logo/rt-forms-logo.png?raw=true" width="210" alt="RT FORMS logo"/>
     </td>
     <td width="20%" align="right" valign="middle">
       <img src="https://github.com/user-attachments/assets/41de0edc-f0a3-474a-9156-d8b3d10d41ba" width="140" alt="Shah Rishabh badge logo"/>
@@ -19,7 +12,6 @@
   </tr>
 </table>
 
-<!-- ═════════════ MAIN ACTION BUTTONS ═════════════ -->
 <p align="center">
   <a href="https://shahrishabh1513-jsk.github.io/rt-forms/"><img src="https://img.shields.io/badge/🚀_LIVE_DEMO-OPEN_APP-14B8A6?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0F172A" alt="Live Demo"/></a>
   <a href="https://github.com/shahrishabh1513-jsk/rt-forms"><img src="https://img.shields.io/badge/💻_SOURCE_CODE-GITHUB-98E2C6?style=for-the-badge&logo=github&logoColor=0F172A&labelColor=0F172A" alt="Source Code"/></a>
