@@ -5,7 +5,8 @@
       <img src="https://github.com/user-attachments/assets/90c19f97-8b0b-4df1-96c4-a288d337503c" width="140" alt="Shah Rishabh badge logo"/>
     </td>
     <td width="60%" align="center" valign="middle">
-      <h1>📝 RT FORMS</h1>
+      <img src="https://github.com/shahrishabh1513-jsk/rt-forms/blob/main/assets/logo/rt-forms-logo.png?raw=true" width="110" alt="RT FORMS logo"/>
+      <h1>RT FORMS</h1>
       <h3>Create. Share. Collect.</h3>
       <p>
         A modern, responsive online form builder for creating<br/>
@@ -22,6 +23,7 @@
 <p align="center">
   <a href="https://shahrishabh1513-jsk.github.io/rt-forms/"><img src="https://img.shields.io/badge/🚀_LIVE_DEMO-OPEN_APP-14B8A6?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0F172A" alt="Live Demo"/></a>
   <a href="https://github.com/shahrishabh1513-jsk/rt-forms"><img src="https://img.shields.io/badge/💻_SOURCE_CODE-GITHUB-98E2C6?style=for-the-badge&logo=github&logoColor=0F172A&labelColor=0F172A" alt="Source Code"/></a>
+  <a href="https://github.com/shahrishabh1513-jsk/rt-forms/blob/main/RT_FORMS_Project_Report.pdf"><img src="https://img.shields.io/badge/📄_PROJECT_REPORT-READ_PDF-FB7185?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelColor=0F172A" alt="Read Project Report"/></a>
 </p>
 
 <p align="center">
@@ -46,6 +48,7 @@
   <a href="#-features"><img src="https://img.shields.io/badge/🚀-FEATURES-14B8A6?style=for-the-badge&labelColor=0F172A" alt="Features"/></a>
   <a href="#-tech-stack"><img src="https://img.shields.io/badge/🧰-TECH_STACK-FBBF24?style=for-the-badge&labelColor=0F172A" alt="Tech Stack"/></a>
   <a href="#%EF%B8%8F-getting-started"><img src="https://img.shields.io/badge/⚙️-GET_STARTED-FB7185?style=for-the-badge&labelColor=0F172A" alt="Getting Started"/></a>
+  <a href="#-project-report"><img src="https://img.shields.io/badge/📄-REPORT-FB7185?style=for-the-badge&labelColor=0F172A" alt="Project Report"/></a>
   <a href="#-color-palette"><img src="https://img.shields.io/badge/🎨-COLORS-98E2C6?style=for-the-badge&labelColor=0F172A" alt="Colors"/></a>
   <a href="#-author"><img src="https://img.shields.io/badge/👨‍💻-AUTHOR-14B8A6?style=for-the-badge&labelColor=0F172A" alt="Author"/></a>
 </p>
@@ -136,12 +139,23 @@ Then visit **http://localhost:5500** 🎉
 rt-forms/
 ├── assets/
 │   └── logo/
-│       └── favicon.svg     # App icon
-├── index.html              # App entry point
-├── style.css               # All styles & theme colors
-├── script.js               # App logic
-└── README.md               # You are here
+│       └── rt-forms-logo.png      # Website logo
+├── index.html                     # App entry point
+├── style.css                      # All styles & theme colors
+├── script.js                      # App logic
+├── RT_FORMS_Project_Report.pdf    # Full project report
+└── README.md                      # You are here
 ```
+
+---
+
+## 📄 Project Report
+
+Want the full story behind RT FORMS: the idea, design, implementation and results? Read the complete project report.
+
+<p align="center">
+  <a href="https://github.com/shahrishabh1513-jsk/rt-forms/blob/main/RT_FORMS_Project_Report.pdf"><img src="https://img.shields.io/badge/📄_READ_THE-PROJECT_REPORT-14B8A6?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelColor=FB7185" alt="Read the project report"/></a>
+</p>
 
 ---
 
@@ -196,6 +210,7 @@ Contributions, issues and feature requests are welcome!
 <p align="center">
   <a href="https://github.com/shahrishabh1513-jsk/rt-forms"><img src="https://img.shields.io/badge/⭐_STAR_THIS-REPOSITORY-FBBF24?style=for-the-badge&logo=github&logoColor=0F172A&labelColor=0F172A" alt="Star this repository"/></a>
   <a href="https://shahrishabh1513-jsk.github.io/rt-forms/"><img src="https://img.shields.io/badge/🚀_VISIT-LIVE_APP-14B8A6?style=for-the-badge&labelColor=0F172A" alt="Visit live app"/></a>
+  <a href="https://github.com/shahrishabh1513-jsk/rt-forms/blob/main/RT_FORMS_Project_Report.pdf"><img src="https://img.shields.io/badge/📄_READ-REPORT-FB7185?style=for-the-badge&labelColor=0F172A" alt="Read report"/></a>
 </p>
 
 <p align="center"><sub>If you like this project, please give it a ⭐ — it really helps!</sub></p>
