@@ -27,10 +27,10 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/shahrishabh1513-jsk/rt-forms/stargazers"><img src="https://img.shields.io/github/stars/shahrishabh1513-jsk/rt-forms?style=for-the-badge&logo=github&logoColor=FBBF24&color=0F172A&labelColor=0F172A&label=⭐_STARS" alt="Stars"/></a>
-  <a href="https://github.com/shahrishabh1513-jsk/rt-forms/fork"><img src="https://img.shields.io/github/forks/shahrishabh1513-jsk/rt-forms?style=for-the-badge&logo=git&logoColor=FB7185&color=0F172A&labelColor=0F172A&label=🍴_FORKS" alt="Forks"/></a>
-  <a href="https://github.com/shahrishabh1513-jsk/rt-forms/issues"><img src="https://img.shields.io/github/issues/shahrishabh1513-jsk/rt-forms?style=for-the-badge&logo=github&logoColor=98E2C6&color=0F172A&labelColor=0F172A&label=🐞_ISSUES" alt="Issues"/></a>
-  <a href="https://github.com/shahrishabh1513-jsk/rt-forms/commits/main"><img src="https://img.shields.io/github/last-commit/shahrishabh1513-jsk/rt-forms?style=for-the-badge&logo=git&logoColor=14B8A6&color=0F172A&labelColor=0F172A&label=🕒_UPDATED" alt="Last commit"/></a>
+  <a href="https://github.com/shahrishabh1513-jsk/rt-forms/stargazers"><img src="https://img.shields.io/badge/⭐_STAR-THIS_REPO-FBBF24?style=for-the-badge&labelColor=0F172A" alt="Star"/></a>
+  <a href="https://github.com/shahrishabh1513-jsk/rt-forms/fork"><img src="https://img.shields.io/badge/🍴_FORK-THIS_REPO-FB7185?style=for-the-badge&labelColor=0F172A" alt="Fork"/></a>
+  <a href="https://github.com/shahrishabh1513-jsk/rt-forms/issues"><img src="https://img.shields.io/badge/🐞_ISSUES-VIEW_ALL-98E2C6?style=for-the-badge&labelColor=0F172A" alt="Issues"/></a>
+  <a href="https://github.com/shahrishabh1513-jsk/rt-forms/commits/main"><img src="https://img.shields.io/badge/🕒_COMMITS-HISTORY-14B8A6?style=for-the-badge&labelColor=0F172A" alt="Commits"/></a>
 </p>
 
 <!-- ═════════════ TECH BADGES ═════════════ -->
